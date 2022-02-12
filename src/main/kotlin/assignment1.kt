@@ -7,7 +7,9 @@ fun main() {
     println(sTudentAge)
 
     var weight  = 75.5
-    println(weight)
+    val wName = "kg"
+    print(weight)
+    println(wName)
 
     val phoneNumb = "0753489877"
     println(phoneNumb)
